@@ -23,8 +23,8 @@ Key contributions:
     The simulation demonstrates the system’s ability to maintain safe distances and velocity synchronization among multiple vehicles even with modeling uncertainties and external disturbances.
 
     Keywords: Platooning, Model-Free Reinforcement Learning, Distributed Control, Robust Optimal Control, HJB Equation, Autonomous Vehicles
- 
 
 
-   
-    
+https://github.com/user-attachments/assets/e4c04bbc-fb1c-4890-acc7-c5a0fc5d9fbf
+
+
