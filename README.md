@@ -1,7 +1,11 @@
 🚗 Robust Optimal Platoon Control Using Model-Free Reinforcement Learning
 
 This project presents a novel robust optimal control strategy for multi-vehicle platoons under unknown dynamics and disturbances.
-Traditional reinforcement learning (RL) methods often depend on explicit vehicle models, but this work proposes a simplified, adaptive, off-policy, model-free RL algorithm that learns both optimal control and disturbance compensation policies directly from input-output data, without requiring dynamic models.
+Traditional reinforcement learning (RL) methods often depend on explicit vehicle models, but this work proposes a simplified, adaptive, off-policy, model-free RL algorithm that learns both optimal control an
+
+https://github.com/user-attachments/assets/6fdd78e2-16d0-4764-b6d8-9d70b0b982a4
+
+d disturbance compensation policies directly from input-output data, without requiring dynamic models.
 
     The following video demonstrates the impact of reinforcement learning (RL)-based platooning control on traffic flow stability.
     The first part shows a platoon without control, where vehicles decelerate and accelerate alternately, leading to traffic oscillations and stop-and-go phenomena. This instability increases travel time, energy     consumption, and the risk of collisions.
