@@ -10,7 +10,17 @@ Key contributions:
     Optimality and Robustness: Solves a distributed Hamilton–Jacobi–Bellman (HJB) equation to minimize tracking errors and attenuate disturbances.
 
     Model-Free RL: A fully data-driven, online learning method that identifies control policies and compensates unknown dynamics and disturbances.
-
+    
     The simulation demonstrates the system’s ability to maintain safe distances and velocity synchronization among multiple vehicles even with modeling uncertainties and external disturbances.
 
     Keywords: Platooning, Model-Free Reinforcement Learning, Distributed Control, Robust Optimal Control, HJB Equation, Autonomous Vehicles
+ 
+    The following video demonstrates the impact of reinforcement learning (RL)-based platooning control on traffic flow stability.
+    The first part shows a platoon without control, where vehicles decelerate and accelerate alternately, leading to traffic oscillations and stop-and-go phenomena. This instability increases travel time, energy     consumption, and the risk of collisions.
+    The second part presents the same platoon under a reinforcement learning-based cooperative control strategy, where vehicles proactively adjust their speeds to maintain smooth and safe motion. 
+    Traffic oscillations are significantly suppressed, resulting in stable inter-vehicle distances, smoother traffic flow, and enhanced safety and efficiency.
+    
+    https://github.com/user-attachments/assets/6f11da98-5f4e-4e03-8ccb-a3414e19a6d4
+
+   
+    
