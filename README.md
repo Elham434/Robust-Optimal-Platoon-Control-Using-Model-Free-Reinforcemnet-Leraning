@@ -6,6 +6,7 @@ The following video demonstrates the impact of reinforcement learning (RL)-based
 The first part shows a platoon without control, where vehicles decelerate and accelerate alternately, leading to traffic oscillations and stop-and-go phenomena. This instability increases travel time, energy     consumption, and the risk of collisions. 
 The second part presents the same platoon under a reinforcement learning-based cooperative control strategy, where vehicles proactively adjust their speeds to maintain smooth and safe motion. 
 Traffic oscillations are significantly suppressed, resulting in stable inter-vehicle distances, smoother traffic flow, and enhanced safety and efficiency.
+
 https://github.com/user-attachments/assets/6fdd78e2-16d0-4764-b6d8-9d70b0b982a4
     
 Key contributions:
