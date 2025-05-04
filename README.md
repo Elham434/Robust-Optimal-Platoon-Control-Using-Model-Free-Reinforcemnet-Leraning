@@ -1,6 +1,6 @@
 🚗 Robust Optimal Platoon Control Using Model-Free Reinforcement Learning
 
-This project presents a novel robust optimal control strategy for multi-vehicle platoons under unknown dynamics and disturbances.
+This project presents a novel robust optimal control strategy for heterogeneous vehicle platoons under unknown dynamics and disturbances.
 Traditional reinforcement learning (RL) algorithm often require full knowledge of vehicle dynamics, but this work proposes a simplified, adaptive, off-policy, model-free RL algorithm that learns both optimal control and disturbance compensation policies directly from input-output system data, without requiring vehicle dynamic models.
 
 
