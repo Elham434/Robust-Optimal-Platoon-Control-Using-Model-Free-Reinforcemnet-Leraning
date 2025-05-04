@@ -8,7 +8,7 @@ Traditional reinforcement learning (RL) algorithm often require full knowledge o
 The following video demonstrates the effectiveness of RL-based platooning control on traffic flow stability.
 The first part shows a platoon without control, where vehicles decelerate and accelerate alternately, leading to traffic oscillations and stop-and-go phenomena. This instability increases travel time, energy     consumption, and the risk of collisions. 
 The second part presents the same platoon under the proposed RL-based cooperative control strategy, where vehicles proactively synchronize their speeds with its predecessors to maintain smooth and safe inter-vehicle distance. 
-Traffic oscillations are significantly suppressed, resulting in safe inter-vehicle distances, smoother traffic flow, and enhanced safety and efficiency.
+Traffic oscillations are significantly suppressed, resulting in smoother traffic flow and enhanced safety and efficiency.
 
 https://github.com/user-attachments/assets/6fdd78e2-16d0-4764-b6d8-9d70b0b982a4
     
