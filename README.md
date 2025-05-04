@@ -20,7 +20,7 @@ Key contributions:
 
     Model-Free RL: A fully data-driven, online learning method that identifies optimal policies to compensates the effects of unknown dynamics and disturbances.
     
-    The virtual testing demonstrates the system’s effectiveness to maintain safe distances and speed tracking among multiple vehicles with parameter uncertainties and external disturbances, using only local   information
+    The virtual testing demonstrates the system’s effectiveness to maintain safe distances and speed tracking among multiple vehicles with parameter uncertainties and external disturbances.
 
     Keywords: Platooning, Model-Free Reinforcement Learning, Distributed Control, Robust Optimal Control, HJB Equation, Autonomous Vehicles
 
